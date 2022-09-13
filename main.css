@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0; 
+    background-color: green;
+    color: rgb(0, 0, 0);
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    margin-left: 10px;
+}
+
+li a {
+    display: block;
+    padding: 5px;
+    background-color: #dddddd;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+.main {
+    margin: 10px;
+}
+.main .maintext {
+    padding: 10px;
+}
+.main img {
+    width: 20%;
+    float: left;
+}
+
+p{
+    margin-left: 120px;
+}
